@@ -1,0 +1,12 @@
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\bin\Debug\net6.0\MyApp.Contracts.deps.json
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\bin\Debug\net6.0\MyApp.Contracts.dll
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\bin\Debug\net6.0\MyApp.Contracts.pdb
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.csproj.AssemblyReference.cache
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.AssemblyInfoInputs.cache
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.AssemblyInfo.cs
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.csproj.CoreCompileInputs.cache
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.dll
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\refint\MyApp.Contracts.dll
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\MyApp.Contracts.pdb
+D:\Users\Vyacheslav\Desktop\Поиск работы\Вакансии\СПИДБОКС\Test task\MyApp.Contracts\obj\Debug\net6.0\ref\MyApp.Contracts.dll

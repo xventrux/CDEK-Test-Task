@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MyApp.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyApp.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyApp.Contracts.dll": {}
+        }
+      },
+      "Sdek.SDK/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Sdek.SDK.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sdek.SDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../MyApp.Contracts/MyApp.Contracts.csproj",
+      "msbuildProject": "../MyApp.Contracts/MyApp.Contracts.csproj"
+    },
+    "Sdek.SDK/1.0.0": {
+      "type": "project",
+      "path": "../Sdek.SDK/Sdek.SDK.csproj",
+      "msbuildProject": "../Sdek.SDK/Sdek.SDK.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MyApp.Contracts >= 1.0.0",
+      "Sdek.SDK >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\MyApp.AppServices\\MyApp.AppServices.csproj",
+      "projectName": "MyApp.AppServices",
+      "projectPath": "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\MyApp.AppServices\\MyApp.AppServices.csproj",
+      "packagesPath": "C:\\Users\\Вячеслав\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\MyApp.AppServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Вячеслав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\MyApp.Contracts\\MyApp.Contracts.csproj": {
+              "projectPath": "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\MyApp.Contracts\\MyApp.Contracts.csproj"
+            },
+            "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\Sdek.SDK\\Sdek.SDK.csproj": {
+              "projectPath": "D:\\Users\\Vyacheslav\\Desktop\\Поиск работы\\Вакансии\\СПИДБОКС\\Test task\\Sdek.SDK\\Sdek.SDK.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

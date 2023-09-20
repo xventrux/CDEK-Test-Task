@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyApp.AppServices/1.0.0": {
+        "dependencies": {
+          "MyApp.Contracts": "1.0.0",
+          "Sdek.SDK": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.AppServices.dll": {}
+        }
+      },
+      "MyApp.Contracts/1.0.0": {
+        "runtime": {
+          "MyApp.Contracts.dll": {}
+        }
+      },
+      "Sdek.SDK/1.0.0": {
+        "runtime": {
+          "Sdek.SDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp.AppServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApp.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sdek.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

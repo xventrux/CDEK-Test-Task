@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyApp</name>
+    </assembly>
+    <members>
+        <member name="T:MyApp.Controllers.CdecController">
+            <summary>
+            Контроллер для работы со "СДЭК"
+            </summary>
+        </member>
+        <member name="M:MyApp.Controllers.CdecController.CalculateDelivery(MyApp.Contracts.DTOs.CalculateDeliveryRequest)">
+            <summary>
+            Расчет стоимости доставки
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
